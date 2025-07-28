@@ -1,0 +1,22 @@
+# Ignore compiled classes
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Build output
+/out/
+bin/
+
+
